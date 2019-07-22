@@ -26,7 +26,7 @@ There Will be 3 Switches Connected to LED by Rasberry_Pi
 You can switch them ON/OFF as per your requirement 
 
 ```
-until finished
+Enjoy
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
@@ -62,24 +62,18 @@ Nothing
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Please read [CONTRIBUTING.md](https://github.com/0RutherFord0/raspberry_pi/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+ 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Nishant Parsekar** - *Initial work* - [Nishant](https://github.com/)
+* **Aditya Tawade** - *Helper* - [0rutherford0](https://github.com/0RutherFord0)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed Nothing, Just Kidding!
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* With Great Power Comes Great Responsibility
