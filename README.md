@@ -1,6 +1,6 @@
 # Raspberry_pi LED Switch ON/OF
 
-One Paragraph of project description goes here
+Small Project based on Raspberry pi
 
 ## Getting Started
 
