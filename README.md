@@ -4,27 +4,26 @@ Small Project based on Raspberry pi
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Get started by just cloaning by "git clone https://github.com/0RutherFord0/raspberry_pi.git" by git
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
-Give examples
+Any Browser which support JavaScript and conneted to Internet
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Build Environment by just having JavaScript Browser
 
-Say what the step will be
+Just Open index.html within folder
 
 ```
-Give the example
+Right Click to Index.html Open with specific browser
 ```
 
-And repeat
+There Will be 3 Switches Connected to LED by Rasberry_Pi
+You can switch them ON/OFF as per your requirement 
 
 ```
 until finished
@@ -46,21 +45,20 @@ Give an example
 
 ### And coding style tests
 
-Explain what these tests test and why
+Tests test and why ?
 
 ```
-Give an example
+Test and Request for Pull Request 
 ```
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Nothing
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* HTML
+* CSS
 
 ## Contributing
 
