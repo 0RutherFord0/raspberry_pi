@@ -85,3 +85,8 @@ html,body {
     text-align: center;
     border:2px solid black
   }
+
+  .ledtext{
+    margin: auto;
+    padding: 50px;
+  }
