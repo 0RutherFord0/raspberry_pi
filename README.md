@@ -67,7 +67,7 @@ Please read [CONTRIBUTING.md](https://github.com/0RutherFord0/raspberry_pi/blob/
 
 ## Authors
 
-* **Nishant Parsekar** - *Initial work* - [Nishant](https://github.com/)
+* **Nishant Parsekar** - *Initial work* - [Nishant](https://github.com/nishparsekar)
 * **Aditya Tawade** - *Helper* - [0rutherford0](https://github.com/0RutherFord0)
 
 ## License
